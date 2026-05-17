@@ -13,4 +13,4 @@ un  cabezal de ICSP
 
 botton de reset
 
-Se puede conectar desde un puerto usb o enege
+Se puede conectar desde un puerto usb o enegezando  con un adaptador AC a DC  o bateria que los incialize
