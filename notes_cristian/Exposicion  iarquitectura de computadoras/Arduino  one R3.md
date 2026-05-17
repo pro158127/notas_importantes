@@ -1,4 +1,4 @@
-El oarduino basado en ATmega328P  ,it has  14  pin de entrada y salida los culaes s epueden isar como PWM salidas
+El oarduino basado en el microcontrolador ATmega328P  , tiene  14  pin de entrada y salida los cuales s pueden usar como PWM salidas
 
 
 6 entradas analogas
