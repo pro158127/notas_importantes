@@ -3,11 +3,12 @@ Un **sesgo** es una ==inclinación, preferencia o tendencia desproporcionada hac
 
 De la universidad del externado de Colombia en un articulo publicado le de junio del 2019 se  hacen un pregunta muy interese   *¿de qué forma los algoritmos de IA están perpetuando sesgos y estereotipos de género que afectan negativamente a las mujeres?*
 
+ONU (2019), “si se construye un sistema inteligente que aprende lo suficiente sobre las propiedades del lenguaje para poder entenderlo y reproducirlo, en el proceso también adquirirá asociaciones culturales históricas, entre ellas los prejuicios de género” (párr. 1).
 ### Afirmaciones del articulo 
 
 1)afirmacion apoyada por la onu en el 2019 ,en este habla del sistema inteligente  (Ai)  como a ser un un sistema que adquiere la prpiedd del lenguaje y  es capaz de reproducirlo  tiende a asociar   temas culurales e historicas  entre ella  denotran prejucios de genero , ya precisamente  que esta es  entrenada en su matoria por hombres.
 
-### Hechos
+### Hechos -Premisas
 
 Hace unos años, una mujer se vio afectada por un algoritmo de IA que no le permitió entrar al gimnasio. Esto sucedió “porque al dar su título de “Dr”, el algoritmo que gestiona el acceso al gimnasio la registró automáticamente como varón” (Inguscio, 2017, p. 64). Este caso ejemplifica cómo la IA replica un sesgo de género, posiblemente plasmado por su programador, que se materializa en una acción que afectó negativamente a una mujer.
 
