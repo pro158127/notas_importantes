@@ -30,7 +30,7 @@ Los problemas legales radican principalmente en la toma de datos y en la salida 
 ## Responsabildiad con el manejo de los datos
 
  Toda empresa o entidad pública que utilice sistemas de IA para tratar datos personales debe garantizar el derecho al _Habeas Data_. Esto significa que los algoritmos deben ser auditables y proteger la identidad del usuario, aplicando buenas prácticas de seguridad como la criptografía y la anonimización de datos. 
-## Responsabilidad legal ante casos de errores
+	## Responsabilidad legal ante casos de errores
 
 En Colombia no existe un marco civil especializado único para la IA, por lo que se aplican normas generales de responsabilidad civil extracontractual y el régimen de protección al consumidor.
 
