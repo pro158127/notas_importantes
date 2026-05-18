@@ -53,10 +53,14 @@
             "id": "1dfecbfa5861ac50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "notes_cristian/Ingenieria de software/sesgo de la AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sesgo de la AI"
             }
           }
         ],

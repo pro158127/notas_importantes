@@ -1,4 +1,5 @@
-## Universidad del externado de Colombia
+
+Un **sesgo** es una ==inclinación, preferencia o tendencia desproporcionada hacia o en contra de algo, alguien o un grupo, que afecta la capacidad de evaluar una situación de manera objetiva==.## Universidad del externado de Colombia
 
 De la universidad del externado de Colombia en un articulo publicado le de junio del 2019 se  hacen un pregunta muy interese   *¿de qué forma los algoritmos de IA están perpetuando sesgos y estereotipos de género que afectan negativamente a las mujeres?*
 
