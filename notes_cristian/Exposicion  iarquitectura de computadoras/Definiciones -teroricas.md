@@ -20,8 +20,19 @@ Se utilizan en dispositivos que reciben corriente continua
 - **Señales de audio:** Sirve para generar tonos y sonidos básicos utilizando un zumbador (_buzzer_).
 
 
-## I2C
+## I2C (INTER-INTEGRATED CIRCUIT )
 
+El protocolo utiliza una arquitectura Maestro-Esclavo. El Arduino actúa como "Maestro" y los dispositivos conectados son los "Esclavos". Utiliza únicamente dos líneas físicas (más la alimentación): 
+
+- **SDA (Serial Data):** Línea por donde se envían y reciben los datos.
+- **SCL (Serial Clock):** Línea de reloj que marca el ritmo y la sincronización de la comunicación.
+- **Direccionamiento:** Cada dispositivo esclavo tiene una dirección hexadecimal única (por ejemplo, `0x3C` o `0x27`). El Maestro llama a los esclavos por su dirección para saber con quién hablar. 
+
+## ¿Qué dispositivos lo utilizan?
+
+- Pantallas LCD o OLED (con módulo adaptador I2C).
+- Módulos de reloj en tiempo real (RTC).
+- Sensores de temperatura, humedad, acelerómetros y giroscopios.
 ## SPI
 
 
