@@ -32,5 +32,13 @@ sirven para conectar y controlar ---> LED, BOTONES ,REALE Y MOTORES
 
 1)  Existe variacion de pines digital cada uno es digital peo comparten diferencia entre si ,cada uno con sus limitaciones en especial .
 
-Se categorizan en los sigientes:
+Se clasifcan de la sigiente manera:
+
+
+## Digital INT0 _-ESTANDAR _BASICO
+
+
+## Digital-PWM_ Y _SOPORTE INT1_
+
+
 
