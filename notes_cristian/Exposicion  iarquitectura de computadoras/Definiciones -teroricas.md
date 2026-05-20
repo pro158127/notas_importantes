@@ -36,4 +36,3 @@ El protocolo utiliza una arquitectura Maestro-Esclavo. El Arduino actúa como "M
 ## SPI
 
 
-## I2C
