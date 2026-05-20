@@ -41,4 +41,4 @@ Se clasifcan de la sigiente manera:
 ## Digital-PWM_ Y _SOPORTE INT1_
 
 
-
+## Digital-PWM/(Timer 0)
