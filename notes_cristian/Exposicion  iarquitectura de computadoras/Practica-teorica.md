@@ -28,4 +28,9 @@ un pin digital es un puertoel cualfunciona con dos estdos encendido(High ) ,Bajo
 ## Para que sirven?
 sirven para conectar y controlar ---> LED, BOTONES ,REALE Y MOTORES
 
+## INFORMACION IMPORTANTE
+
+1)  Existe variacion de pines digital cada uno es digital peo comparten diferencia entre si ,cada uno con sus limitaciones en especial .
+
+Se categorizan en los sigientes:
 
