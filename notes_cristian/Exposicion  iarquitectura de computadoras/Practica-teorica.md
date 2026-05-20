@@ -42,3 +42,5 @@ Se clasifcan de la sigiente manera:
 
 
 ## Digital-PWM/(Timer 0)
+
+## ### ~D10 / SS — PWM / SPI
