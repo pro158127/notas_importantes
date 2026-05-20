@@ -43,4 +43,29 @@ Se clasifcan de la sigiente manera:
 
 ## Digital-PWM/(Timer 0)
 
+
 ## ### ~D10 / SS — PWM / SPI
+
+
+## ### ~D11 / COPI — PWM / SPI MOSI
+
+
+### D12 / CIPO — SPI MISO
+
+
+### AREF — Referencia Analógica
+
+
+## ### A4 / SDA / D18 — I2C
+
+
+
+## ### A5 / SCL / D19 — I2C Clock
+
+
+
+
+
+
+
+
