@@ -2,7 +2,7 @@
 
 
 
-La AI puede procesar grandes cantidades de datos sin una notable intervecnon humana  y tambien si los derechos actor como serian tratos ante el entrenamiento e  y  la genreacion de datos.
+La AI puede procesar grandes cantidades de datos sin una notable intervecnon humana  y tambien y los derechos actor como serian tratos ante el entrenamiento e  y  la genreacion de datos.
 
 Un reciente caso fue el  fallo hecho por la corte suprema de estaos unidos frente al caso de  Warhol en cual se estaba demando por copyright  a es se le aplico  un concepto de estados unidoc omo "fair use"  la corte determino que el uso de la Ai no esra cn fines artiditicos sino comerciales por ende  se enetiende que el producto del contenido a pesar de tener similitud a el  originarl esta se deriva  de n copyright involuntario ya que es producto del trabajo y no de un claro copyright .
 
