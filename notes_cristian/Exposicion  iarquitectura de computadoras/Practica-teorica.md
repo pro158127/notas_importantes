@@ -1,0 +1,66 @@
+aprender a usar cada pin y su uso especifico 
+
+
+
+conceptos a aprender primero  en codificacion:
+estructura:
+
+##setup()
+pinMode()
+
+
+## Loop()
+
+digitalWrite()
+
+¿Que es un pin digital y que pines son digitales ?
+un pin digital es un puertoel cual funciona con dos estdos encendido(High ) ,Bajo(Low)
+
+## Para que sirven?
+sirven para conectar y controlar ---> LED, BOTONES ,REALE Y MOTORES
+
+## INFORMACION IMPORTANTE
+
+1)  Existe variacion de pines digital cada uno es digital peo comparten diferencia entre si ,cada uno con sus limitaciones en especial .
+
+Se clasifcan de la sigiente manera:
+
+
+## Digital INT0 _-ESTANDAR _BASICO
+
+
+## Digital-PWM_ Y _SOPORTE INT1_
+
+
+## Digital-PWM/(Timer 0)
+
+
+## ### ~D10 / SS — PWM / SPI
+
+
+## ### ~D11 / COPI — PWM / SPI MOSI
+
+
+### D12 / CIPO — SPI MISO
+
+
+### AREF — Referencia Analógica
+
+
+## ### A4 / SDA / D18 — I2C
+
+
+
+## ### A5 / SCL / D19 — I2C Clock
+
+
+### D0 / RX — Recepción Serial
+
+### D1 / TX — Transmisión Serial
+
+
+
+
+
+
+

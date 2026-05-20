@@ -1,4 +1,4 @@
-
+.0
 Que es el scrum?
 
 ES un marco necesario en la  gestion eficaz de inciativas empresarios
